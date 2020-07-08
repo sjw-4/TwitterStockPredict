@@ -1,0 +1,5 @@
+# .gitignor
+*.txt
+*.json
+*.pkl
+*.env
