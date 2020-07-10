@@ -11,3 +11,6 @@ It kind of works with Elon Musk's Twitter and Tesla stock, but in reality this w
 
 
 Run main with Python3 and follow the prompts.
+
+
+This project does not completely work as intented, since the library used to get minute-by-minute stock information only goes back 30 days. This leads to some issues when pulling the data and very little training for the algorithm.
